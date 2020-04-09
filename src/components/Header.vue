@@ -28,13 +28,14 @@ export default {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    border-bottom: 1px solid #333;
 }
 #name {
     text-align: left;
-    font-size: 22px;
+    font-size: 24px;
 }
 #current-role {
     text-align: left;
-    font-size: 14px;
+    font-size: 16px;
 }
 </style>
