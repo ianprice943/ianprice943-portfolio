@@ -6,17 +6,26 @@ const routes = [
     {
         path: '/',
         name: 'Home',
-        component: Home
+        component: Home,
+        meta: {
+            title: 'Ian Price - Home'
+        }
     },
     {
         path: '/Resume',
         name: 'Resume',
-        component: Resume
+        component: Resume,
+        meta: {
+            title: 'Ian Price - Resume'
+        }
     },
     {
         path: '/Portfolio',
         name: 'Portfolio',
-        component: Portfolio
+        component: Portfolio,
+        meta: {
+            title: 'Ian Price - Portfolio'
+        }
     }
 ];
 
