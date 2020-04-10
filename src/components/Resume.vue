@@ -9,7 +9,38 @@
                     Experience
                 </div>
                 <div class="experience">
+                    <div class="experience-name">
+                        Sogeti USA
+                    </div>
+                    <div class="experience-title">
+                        Consultant
+                    </div>
+                    <div class="experience-time">
+                        June 2019 - Present
+                    </div>
+                    <div class="experience-description">
+                        <span>As a consultant at Sogeti, I've had the pleasure of working for several
+                        brands on their front end.</span>
+                        <ul>
+                           <li>
+                                <a href="https://www.maurices.com">maurices</a>
+                                I have been both an A/B tester and a front end developer for maurices, using
+                                stacks including JavaScript(ES6), HTML5, CSS3, and SCSS.
+                           </li> 
+                           <li>
+                               <a href="">Abbott Nutrition</a>
+                           </li>
+                           <li>
+                               <a href="https://www.shopjustice.com/">Justice</a>
 
+                           </li>
+                           <li>
+                                <a href="https://dressbarn.com/">Dressbarn</a>
+                                Before their wind down I was a front end developer using a JavaScript(ES5), 
+                                HTML5, and CSS3 stack.
+                           </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
             <div id="education-container">
@@ -33,8 +64,20 @@
 </template>
 
 <script>
+//import resume from '../../public/resume.json';
 export default {
-    name: 'Resume'
+    name: 'Resume',
+    methods: {
+        populateExperience: function () {
+
+        },
+        populateEducation: function () {
+
+        },
+        populateSkills: function() {
+
+        }
+    }
 }
 </script>
 
@@ -62,6 +105,9 @@ export default {
     display: flex;
     flex-flow: column;
 }
+.experience-name {
+
+}
 .experience-title {
 
 }
@@ -78,6 +124,9 @@ export default {
     margin: 0 0 1em;
 }
 .education {
+
+}
+.education-name {
 
 }
 .education-title {
@@ -98,7 +147,7 @@ export default {
 .skills {
 
 }
-.skill-title {
+.skill-name {
 
 }
 .skill-competancy {
