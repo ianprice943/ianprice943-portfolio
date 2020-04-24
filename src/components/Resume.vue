@@ -24,8 +24,8 @@
                         <ul>
                            <li>
                                 <a href="https://www.maurices.com">maurices</a>
-                                I have been both an A/B tester and a front end developer for maurices, using
-                                stacks including JavaScript(ES6), HTML5, CSS3, and SCSS.
+                                I am both an A/B tester and a front end developer for maurices, using
+                                stacks including JavaScript(ES5/6), HTML5, CSS3, and SCSS.
                            </li> 
                            <li>
                                <a href="">Abbott Nutrition</a>
