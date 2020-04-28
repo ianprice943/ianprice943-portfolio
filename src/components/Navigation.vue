@@ -4,7 +4,7 @@
             <nav>
                 <ul>
                     <li>
-                        <router-link :to="{ name: 'Home' }">Home</router-link>
+                        <router-link :to="{ name: 'Home' } ">Home</router-link>
                     </li>
                     <li>
                         <router-link :to="{ name: 'Resume' }">Resume</router-link>
@@ -39,13 +39,16 @@ li {
 }
 a {
     text-decoration: none;
-    color: #2c3e50;
+    color: #000;
     font-size: 18px;
 }
 a:visited {
     text-decoration: none;
 }
 a:hover {
+    text-decoration: underline;
+}
+a:active {
     text-decoration: underline;
 }
 </style>

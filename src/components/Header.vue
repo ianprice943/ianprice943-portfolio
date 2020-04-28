@@ -29,6 +29,9 @@ export default {
     flex-direction: row;
     justify-content: space-between;
     border-bottom: 1px solid #333;
+    background: #AAA;
+    padding: 0 .25em;
+    color: #000;
 }
 #name {
     text-align: left;

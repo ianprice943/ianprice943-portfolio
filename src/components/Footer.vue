@@ -1,6 +1,6 @@
 <template>
     <div id="footer">
-        This site is currently under construction, sorry if it looks a little blank.
+        Written in VueJS - April 2020
     </div>
 </template>
 

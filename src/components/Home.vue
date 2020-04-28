@@ -25,7 +25,7 @@ export default {
 
 <style scoped>
 #home-title {
-    font-size: 24px;
+    font-size: 36px;
 }
 #about-me {
     font-size: 16px;
