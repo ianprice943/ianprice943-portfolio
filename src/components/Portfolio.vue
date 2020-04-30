@@ -40,6 +40,7 @@ export default {
     display: flex;
     justify-content: space-evenly;
     font-size: 20px;
+    flex-wrap: wrap;
 }
 #portfolio-container > div {
     width: 48%;
@@ -48,4 +49,14 @@ export default {
     width: 100%;
 }
 
+@media only screen and (max-width: 767px) {
+    #portfolio-container {
+        flex-direction: column;
+    }
+    #portfolio-container > div {
+        width: 100%;
+        margin: auto 0;
+    }
+
+}
 </style>
