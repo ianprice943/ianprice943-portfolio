@@ -21,7 +21,9 @@ export default {
 
 <style scoped>
 #main {
-    margin: 1em 0;
-    padding: 0 .5em;
+    padding: 1em .5em;
+    /*background-image: url("~@/assets/dark-triangles.png");*/
+    background-image: url("~@/assets/double-bubble.png");
+    /*background-image: url("~@/assets/prism.png");*/
 }
 </style>
