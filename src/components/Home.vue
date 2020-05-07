@@ -52,6 +52,22 @@ export default {
     margin: 0 auto;
 }
 .column>div {
-    margin: 0 1em 1em 0;
+    margin: 0 3em 1em 0;
+}
+
+@media only screen and (max-width: 767px) {
+    #about-me {
+        flex-flow: column;
+    }
+    .column {
+        width: 100%;
+    }
+    .column>div {
+        margin: 0 0 1em;
+    }
+    .column>div:last-of-type {
+        margin: 0 1em;
+    }
+
 }
 </style>
