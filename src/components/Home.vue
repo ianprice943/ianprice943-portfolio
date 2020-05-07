@@ -8,15 +8,15 @@
                 <img src="~@/assets/LinkedIn.png" alt="Photo of Ian">   
             </div>
             <div class="column">
-                <p>
+                <div>
                     My name is Ian Price, and I'm a 22 year old developer based in Columbus, Ohio. I hold a
                     Bachelor of Science in Computer Science from Miami University, and graduated in 2019.
-                </p>
-                <p>
+                </div>
+                <div>
                     I am a front-end focused web developer with almost a year of E-Commerce experience. 
                     Making sure every page I touch is both responsive and cross browser compatible is a 
                     fun and rewarding challenge that I tackle every day.
-                </p>
+                </div>
             </div> 
         </div>
     </div>
@@ -48,7 +48,10 @@ export default {
     text-align: center;
 }
 .column>img {
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
+}
+.column>div {
+    margin: 0 1em 1em 0;
 }
 </style>
