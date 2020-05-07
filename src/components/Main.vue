@@ -22,8 +22,5 @@ export default {
 <style scoped>
 #main {
     padding: 1em .5em;
-    /*background-image: url("~@/assets/dark-triangles.png");*/
-    background-image: url("~@/assets/double-bubble.png");
-    /*background-image: url("~@/assets/prism.png");*/
 }
 </style>

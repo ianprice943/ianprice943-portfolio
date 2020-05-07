@@ -30,7 +30,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  /*background: #EEE;*/
+  /*color: #0F0F0F;*/
+  color: #FFF;
+  background-image: url("~@/assets/prism.png");
 }
 </style>
