@@ -61,11 +61,9 @@ export default {
     }
     .column {
         width: 100%;
+        margin: 0 1em 1em;
     }
-    .column>div {
-        margin: 0 0 1em;
-    }
-    .column>div:last-of-type {
+    .column:last-of-type {
         margin: 0 1em;
     }
 
