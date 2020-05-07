@@ -31,6 +31,7 @@ export default {
 <style scoped>
 #home-title {
     font-size: 36px;
+    text-align: left;
 }
 #about-me {
     font-size: 16px;
@@ -47,7 +48,7 @@ export default {
     text-align: center;
 }
 .column>img {
-    width: 75%;
+    width: 100%;
     margin: 0 auto;
 }
 </style>

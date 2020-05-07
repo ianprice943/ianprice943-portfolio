@@ -33,6 +33,7 @@ export default {
 <style scoped>
 #portfolio-title {
     font-size: 36px;
+    text-align: left;
 }
 #portfolio-container {
     margin: 1em 0;

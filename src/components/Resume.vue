@@ -231,6 +231,7 @@
 
     #resume-title {
         font-size: 36px;
+        text-align: left;
     }
 
     #resume-container {
