@@ -9,13 +9,13 @@
             </div>
             <div class="column">
                 <div>
-                    My name is Ian Price, and I'm a 22 year old developer based in Columbus, Ohio. I hold a
+                    Ian is a 22 year old web developer based in Columbus, Ohio. He holds a
                     Bachelor of Science in Computer Science from Miami University, and graduated in 2019.
                 </div>
                 <div>
-                    I am a front-end focused web developer with almost a year of E-Commerce experience. 
-                    Making sure every page I touch is both responsive and cross browser compatible is a 
-                    fun and rewarding challenge that I tackle every day.
+                    Ian's focus is on front-end web development, with close to a year of E-Commerce experience. 
+                    He takes designs and brings them to life on the web while ensuring responsiveness and 
+                    cross browser compatibility.
                 </div>
             </div> 
         </div>
@@ -34,7 +34,7 @@ export default {
     text-align: left;
 }
 #about-me {
-    font-size: 16px;
+    font-size: 28px;
     margin: 1em 0;
     text-align: left;
     display: flex;
@@ -48,13 +48,20 @@ export default {
     text-align: center;
 }
 .column>img {
-    width: 80%;
+    width: 50%;
     margin: 0 auto;
 }
 .column>div {
     margin: 0 3em 1em 0;
 }
-
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+    .column>img {
+        width: 90%;
+    }
+    .column>div {
+        margin: 0 0 1em;
+    }
+}
 @media only screen and (max-width: 767px) {
     #about-me {
         flex-flow: column;
@@ -65,6 +72,12 @@ export default {
     }
     .column:last-of-type {
         margin: 0 1em;
+    }
+    .column>img {
+        width: 80%;
+    }
+    .column>div {
+        font-size: 22px;
     }
 }
 </style>

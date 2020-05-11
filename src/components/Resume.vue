@@ -20,31 +20,28 @@
                             June 2019 - Present
                         </div>
                         <div class="experience-description">
-                            <span>As a consultant at Sogeti, I've had the pleasure of working for several
+                            <span>As a consultant at Sogeti, Ian has had the pleasure of working for several
                                 brands on their front end:</span>
                             <ul>
                                 <li>
                                     <a href="https://www.maurices.com">maurices</a>:
-                                    This my current client. I am both an A/B tester and a front end developer for
-                                    maurices,
-                                    using
-                                    stacks including JavaScript(ES5/6), HTML5, CSS3, and SCSS.
+                                    This his current client. Ian is both an A/B tester and a front end developer for
+                                    maurices, using stacks including JavaScript(ES5/6), HTML5, CSS3, and SCSS.
                                 </li>
                                 <li>
                                     <a href="https://abbottnutrition.com/">Abbott Nutrition</a>:
-                                    At Abbott I helped update WebNova, a formula calculation application. The update
-                                    included a
-                                    C# .NET upgrade from 3.5 to 4.7.1, while also updating their front end for IE11
+                                    At Abbott Ian helped update WebNova, a formula calculation application. The update
+                                    included a C# .NET upgrade from 3.5 to 4.7.1, while also updating their front end for IE11
                                     compatibility.
                                 </li>
                                 <li>
                                     <a href="https://www.shopjustice.com/">Justice</a>:
-                                    At Justice I worked on the homepage and banners using HTML5, CSS3, and
+                                    At Justice Ian worked on the homepage and banners using HTML5, CSS3, and
                                     JavaScript(ES5).
                                 </li>
                                 <li>
                                     <a href="https://dressbarn.com/">Dressbarn</a>
-                                    Before their wind down I was a front end developer using a JavaScript(ES5),
+                                    Before their wind down Ian was a front end developer for Dressbarn, using a JavaScript(ES5),
                                     HTML5, and CSS3 stack.
                                 </li>
                             </ul>
@@ -61,7 +58,7 @@
                             May 2018 - August 2018
                         </div>
                         <div class="experience-description">
-                            <span>As a Network Intern for OCLC my responsibilities included:</span>
+                            <span>As a Network Intern for OCLC, Ian's responsibilities included:</span>
                             <ul>
                                 <li>
                                     Mapping the topology of the network across multiple sites.
@@ -86,7 +83,7 @@
                             June 2017 - August 2017
                         </div>
                         <div class="experience-description">
-                            At MAPFRE Stadium I managed virtual machines and provided technical support for over 90
+                            At MAPFRE Stadium Ian managed virtual machines and provided technical support for over 90
                             employees.
                         </div>
                     </div>
@@ -101,7 +98,7 @@
                             May 2016 - August 2016
                         </div>
                         <div class="experience-description">
-                            <span>At Revolution group I had the following responsibilities:</span>
+                            <span>At Revolution group Ian had the following responsibilities:</span>
                             <ul>
                                 <li>
                                     Providing technical support for over 70 companies in and around Ohio.
@@ -152,10 +149,10 @@
                             CSS3 - Intermediate
                         </li>
                         <li class="skill">
-                            NodeJS/NPM - Novice
+                            NodeJS/NPM - Intermediate
                         </li>
                         <li class="skill">
-                            VueJS - Novice
+                            VueJS - Intermediate
                         </li>
                         <li class="skill">
                             SCSS - Novice
@@ -165,6 +162,9 @@
                         </li>
                         <li class="skill">
                             C/C++ - Novice
+                        </li>
+                        <li class="skill">
+                            PHP - Novice
                         </li>
                         <li class="skill">
                             Java - Novice
