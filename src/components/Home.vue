@@ -9,7 +9,7 @@
             </div>
             <div class="column">
                 <div>
-                    Ian is a 22 year old web developer based in Columbus, Ohio. He holds a
+                    Ian is a 23 year old web developer based in Columbus, Ohio. He holds a
                     Bachelor of Science in Computer Science from Miami University, and graduated in 2019.
                 </div>
                 <div>
