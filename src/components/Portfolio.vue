@@ -20,6 +20,14 @@
                     <img src="~@/assets/PMDRTDXLogo.png" alt="Pokemon Mystery Dungeon Rescue Team DX Logo">
                 </a>
             </div>
+            <div id="wkmediation">
+                <div>
+                    William Kampf Mediation
+                </div>
+                <a href="https://wkmediation.com/">
+                    <img src="https://wkmediation.files.wordpress.com/2020/06/wk_mediation_logo_horiz_graygold.png" alt="WK Mediation Logo">
+                </a>
+            </div>
         </div>
     </div>
 </template>
