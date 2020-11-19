@@ -1,14 +1,14 @@
 <template>
     <div id="portfolio">
-        <div id="portfolio-title">
+        <h1 id="portfolio-title">
             Portfolio
-        </div>
+        </h1>
         <div id="portfolio-container">
             <div id="github">
                 <div>
                     To see what side projects Ian is working on, check out his GitHub
                 </div>
-                <a href="https://github.com/ianprice943">
+                <a href="https://github.com/ianprice943" aria-label="Ian's GitHub">
                     <img src="~@/assets/GitHub_Logo_White.png" alt="GitHub Logo">
                 </a>
             </div>
@@ -16,7 +16,7 @@
                 <div>
                     Pokemon Mystery Dungeon Rescue Team DX Starters
                 </div>
-                <a href="https://pmdrtdx-vuejs.herokuapp.com/">
+                <a href="https://pmdrtdx-vuejs.herokuapp.com/" aria-label="A Pokemon Game Site">
                     <img src="~@/assets/PMDRTDXLogo.png" alt="Pokemon Mystery Dungeon Rescue Team DX Logo">
                 </a>
             </div>
@@ -24,7 +24,7 @@
                 <div>
                     William Kampf Mediation
                 </div>
-                <a href="https://wkmediation.com/">
+                <a href="https://wkmediation.com/" aria-label="A mediator's website">
                     <img src="https://wkmediation.files.wordpress.com/2020/06/wk_mediation_logo_horiz_graygold.png" alt="WK Mediation Logo">
                 </a>
             </div>
@@ -42,6 +42,8 @@ export default {
 #portfolio-title {
     font-size: 36px;
     text-align: left;
+    font-weight: 400;
+    margin: 0;
 }
 #portfolio-container {
     margin: 1em 0;

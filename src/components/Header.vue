@@ -1,5 +1,5 @@
 <template>
-    <div id="header">
+    <header id="header" aria-label="header">
         <div id="title">
             <div id="name">
                 Ian Price
@@ -9,7 +9,7 @@
             </div>
         </div>
         <Navigation />
-    </div>
+    </header>
 </template>
 
 <script>

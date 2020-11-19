@@ -1,8 +1,8 @@
 <template>
     <div id="home">
-        <div id="home-title">
+        <h1 id="home-title">
             Home
-        </div>
+        </h1>
         <div id="about-me">
             <div class="column center">
                 <img src="~@/assets/LinkedIn.png" alt="Photo of Ian">   
@@ -32,6 +32,8 @@ export default {
 #home-title {
     font-size: 36px;
     text-align: left;
+    font-weight: 400;
+    margin: 0;
 }
 #about-me {
     font-size: 28px;

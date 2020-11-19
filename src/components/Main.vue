@@ -1,7 +1,7 @@
 <template>
-    <div id="main">
+    <main id="main" aria-label="main">
         <router-view />
-    </div>
+    </main>
 </template>
 
 <script>

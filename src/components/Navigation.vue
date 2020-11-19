@@ -1,5 +1,5 @@
 <template>
-    <div id="navigation">
+    <nav id="navigation" aria-label="navigation">
         <slot>
             <nav>
                 <ul>
@@ -15,7 +15,7 @@
                 </ul>
             </nav>
         </slot>
-    </div>
+    </nav>
 </template>
 
 <script>

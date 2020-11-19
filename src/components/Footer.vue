@@ -1,7 +1,7 @@
 <template>
-    <div id="footer">
+    <footer id="footer" aria-label="footer">
         Written in VueJS - April 2020
-    </div>
+    </footer>
 </template>
 
 <script>

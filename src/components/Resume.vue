@@ -1,8 +1,8 @@
 <template>
     <div id="resume">
-        <div id="resume-title">
+        <h1 id="resume-title">
             Resume
-        </div>
+        </h1>
         <div id="resume-container">
             <div class="column">
                 <div id="experience-container">
@@ -238,6 +238,8 @@
     #resume-title {
         font-size: 36px;
         text-align: left;
+        font-weight: 400;
+        margin: 0;
     }
 
     #resume-container {
