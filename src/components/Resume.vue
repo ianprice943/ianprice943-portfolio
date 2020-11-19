@@ -249,7 +249,7 @@
     .section-title {
         font-size: 32px;
         /*color: #464D77;*/
-        color: #709BB0;
+        color: #B4CAD5;
         margin: 0 0 .5em;
     }
 
