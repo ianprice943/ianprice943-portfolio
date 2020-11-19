@@ -26,7 +26,7 @@
                                 <li>
                                     <a href="https://www.maurices.com">maurices</a>:
                                     This his current client. Ian is both an A/B tester and a front end developer for
-                                    maurices, using stacks including JavaScript(ES5/6), HTML5, CSS3, and SCSS.
+                                    maurices, using stacks including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS.
                                 </li>
                                 <li>
                                     <a href="https://abbottnutrition.com/">Abbott Nutrition</a>:
@@ -155,7 +155,13 @@
                             VueJS - Intermediate
                         </li>
                         <li class="skill">
+                            TypeScript - Novice
+                        </li>
+                        <li class="skill">
                             SCSS - Novice
+                        </li>
+                        <li class="skill">
+                            Rust - Novice
                         </li>
                         <li class="skill">
                             C# - Novice
