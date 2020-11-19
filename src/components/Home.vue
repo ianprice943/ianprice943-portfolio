@@ -13,7 +13,7 @@
                     Bachelor of Science in Computer Science from Miami University, and graduated in 2019.
                 </div>
                 <div>
-                    Ian's focus is on front-end web development, with close to a year of E-Commerce experience. 
+                    Ian's focus is on front-end web development, with over a year of E-Commerce experience. 
                     He takes designs and brings them to life on the web while ensuring responsiveness and 
                     cross browser compatibility.
                 </div>
