@@ -25,7 +25,7 @@
                             <ul>
                                 <li>
                                     <a href="https://www.maurices.com">maurices</a>:
-                                    This his current client. Ian is both an A/B tester and a front end developer for
+                                    This is his current client. Ian is both an A/B tester and a front end developer for
                                     maurices, using stacks including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS.
                                 </li>
                                 <li>
@@ -210,7 +210,6 @@
 <style scoped>
     a {
         text-decoration: none;
-        /*color: #0F0F0F;*/
         color: #FFF;
     }
 
@@ -256,7 +255,6 @@
 
     .section-title {
         font-size: 32px;
-        /*color: #464D77;*/
         color: #B4CAD5;
         margin: 0 0 .5em;
     }

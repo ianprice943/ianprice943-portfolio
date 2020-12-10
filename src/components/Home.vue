@@ -9,13 +9,11 @@
             </div>
             <div class="column">
                 <div>
-                    Ian is a 23 year old web developer based in Columbus, Ohio. He holds a
-                    Bachelor of Science in Computer Science from Miami University, and graduated in 2019.
-                </div>
-                <div>
-                    Ian's focus is on front-end web development, with over a year of E-Commerce experience. 
+                    <p>Ian is a 23 year old web developer based in Columbus, Ohio. He holds a
+                    Bachelor of Science in Computer Science from Miami University, and graduated in 2019.</p>
+                    <p>Ian's focus is on front-end web development, with over a year of E-Commerce experience. 
                     He takes designs and brings them to life on the web while ensuring responsiveness and 
-                    cross browser compatibility.
+                    cross browser compatibility.</p>
                 </div>
             </div> 
         </div>
@@ -54,7 +52,7 @@ export default {
     margin: 0 auto;
 }
 .column>div {
-    margin: 0 3em 1em 0;
+    margin: 0 3em 0 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px){
     .column>img {
