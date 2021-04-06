@@ -16,6 +16,9 @@
                 <div>
                     Pokemon Mystery Dungeon Rescue Team DX Starters
                 </div>
+                <div>
+                    A small site to learn Vue.js
+                </div>
                 <a href="https://pmdrtdx-vuejs.herokuapp.com/" aria-label="A Pokemon Game Site">
                     <img src="~@/assets/PMDRTDXLogo.png" alt="Pokemon Mystery Dungeon Rescue Team DX Logo">
                 </a>

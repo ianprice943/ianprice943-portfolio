@@ -155,6 +155,9 @@
                             VueJS - Intermediate
                         </li>
                         <li class="skill">
+                            Git, Github, BitBucket - Intermediate
+                        </li>
+                        <li class="skill">
                             TypeScript - Novice
                         </li>
                         <li class="skill">
