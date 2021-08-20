@@ -27,6 +27,8 @@
                                     <a href="https://www.maurices.com">maurices</a>:
                                     This is his current client. Ian is both an A/B tester and a front end developer for
                                     maurices, using stacks including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS.
+                                    He also follows guidelines for WCAG 2 and ADA compliance to ensure as many people as possible
+                                    can experience the content he works on.
                                 </li>
                                 <li>
                                     <a href="https://abbottnutrition.com/">Abbott Nutrition</a>:
@@ -156,6 +158,9 @@
                         </li>
                         <li class="skill">
                             Git, Github, BitBucket - Intermediate
+                        </li>
+                        <li class="skill">
+                            WCAG and ADA Compliance - Intermediate
                         </li>
                         <li class="skill">
                             TypeScript - Novice
