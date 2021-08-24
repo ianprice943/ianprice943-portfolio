@@ -27,6 +27,8 @@
                                     <a href="https://www.maurices.com">maurices</a>:
                                     This is his current client. Ian is both an A/B tester and a front end developer for
                                     maurices, using stacks including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS.
+                                    Ian conducts customer facing tests on the maruices website, and uses the data collected
+                                    from those tests to fuel future experiences and optimizations.
                                     He also follows guidelines for WCAG 2 and ADA compliance to ensure as many people as possible
                                     can experience the content he works on.
                                 </li>
