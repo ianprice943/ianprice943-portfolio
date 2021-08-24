@@ -12,7 +12,7 @@
                     <img src="~@/assets/GitHub_Logo_White.png" alt="GitHub Logo">
                 </a>
             </div>
-            <div id="pmmddx">
+            <div id="pmddx">
                 <div>
                     Pokemon Mystery Dungeon Rescue Team DX Starters
                 </div>
@@ -60,6 +60,12 @@ export default {
 }
 #portfolio-container > div> a > img {
     width: 100%;
+}
+
+@media only screen and (max-width: 1023px) {
+    #pmddx > div:last-of-type {
+        font-size: 16px;
+    }
 }
 
 @media only screen and (max-width: 767px) {
