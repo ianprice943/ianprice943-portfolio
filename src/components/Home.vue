@@ -5,7 +5,7 @@
         </h1>
         <div id="about-me">
             <div class="column center">
-                <img src="~@/assets/LinkedIn.png" alt="Photo of Ian">   
+                <img src="~@/assets/LinkedIn.png" alt="Photo of Ian" width="424" height="566">   
             </div>
             <div class="column">
                 <div>
@@ -40,6 +40,9 @@ export default {
     display: flex;
     justify-content: space-between;
 }
+#about-me p {
+    margin-top: 0;
+}
 .column {
     width: 45%;
     margin: 0 1em;
@@ -48,13 +51,17 @@ export default {
     text-align: center;
 }
 .column>img {
-    width: 50%;
     margin: 0 auto;
+    height: auto;
+    max-width: 424px;
 }
 .column>div {
     margin: 0 3em 0 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px){
+    #about-me {
+        font-size: 24px;
+    }
     .column>img {
         width: 90%;
     }

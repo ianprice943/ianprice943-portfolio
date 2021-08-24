@@ -24,6 +24,7 @@ export default {
 <style>
 body {
   margin: 0;
+  background-image: url("~@/assets/prism.png");
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -32,6 +33,8 @@ body {
   text-align: center;
   /*color: #0F0F0F;*/
   color: #FFF;
-  background-image: url("~@/assets/prism.png");
+  /* background-image: url("~@/assets/prism.png"); */
+  position: relative;
+  min-height: 100vh;
 }
 </style>
