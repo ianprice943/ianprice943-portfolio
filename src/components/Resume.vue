@@ -25,28 +25,19 @@
                             <ul>
                                 <li>
                                     <a href="https://www.maurices.com">maurices</a>:
-                                    This is his current client. Ian is both an A/B tester and a front end developer for
-                                    maurices, using stacks including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS.
-                                    Ian conducts customer facing tests on the maruices website, and uses the data collected
-                                    from those tests to fuel future experiences and optimizations.
-                                    He also follows guidelines for WCAG 2 and ADA compliance to ensure as many people as possible
-                                    can experience the content he works on.
+                                    This is his current client. Ian is both an A/B tester and a front-end developer for maurices, using stacks including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS. Ian conducts customer facing tests on the maruices website, and uses the data collected from those tests to fuel future experiences and optimizations. He also follows guidelines for WCAG 2 and ADA compliance to ensure as many people as possible can experience the content he works on. To stay organized, Ian uses Atlassian JIRA to to receive and prioritize tasks as well as to communicate with stakeholders, and Atlassian Confluence to document his code and processes.
                                 </li>
                                 <li>
                                     <a href="https://abbottnutrition.com/">Abbott Nutrition</a>:
-                                    At Abbott Ian helped update WebNova, a formula calculation application. The update
-                                    included a C# .NET upgrade from 3.5 to 4.7.1, while also updating their front end for IE11
-                                    compatibility.
+                                    At Abbott Ian helped update WebNova, a formula calculation application used in neonatal care. The update included an ASP.NET upgrade from 3.5 to 4.7.1, while also updating their front end for IE11 compatibility. He used JavaScript(ES5), HTML5, CSS3, and C# as his tech stack.
                                 </li>
                                 <li>
                                     <a href="https://www.shopjustice.com/">Justice</a>:
-                                    At Justice Ian worked on the homepage and banners using HTML5, CSS3, and
-                                    JavaScript(ES5).
+                                    At Justice Ian worked on the homepage and banners using HTML5, CSS3, and JavaScript(ES5).
                                 </li>
                                 <li>
                                     <a href="https://dressbarn.com/">Dressbarn</a>
-                                    Before their wind down Ian was a front end developer for Dressbarn, using a JavaScript(ES5),
-                                    HTML5, and CSS3 stack.
+                                    Before their wind down Ian was a front end developer for Dressbarn, using a JavaScript(ES5), HTML5, and CSS3 stack.
                                 </li>
                             </ul>
                         </div>
@@ -87,8 +78,7 @@
                             June 2017 - August 2017
                         </div>
                         <div class="experience-description">
-                            At MAPFRE Stadium Ian managed virtual machines and provided technical support for over 90
-                            employees.
+                            At MAPFRE Stadium Ian managed virtual machines and provided technical support for over 90 employees.
                         </div>
                     </div>
                     <div class="experience">
@@ -153,9 +143,6 @@
                             CSS3 - Intermediate
                         </li>
                         <li class="skill">
-                            NodeJS/NPM - Intermediate
-                        </li>
-                        <li class="skill">
                             Vue.js - Intermediate
                         </li>
                         <li class="skill">
@@ -165,6 +152,9 @@
                             WCAG and ADA Compliance - Intermediate
                         </li>
                         <li class="skill">
+                            NodeJS/NPM - Intermediate
+                        </li>
+                        <li class="skill">
                             TypeScript - Novice
                         </li>
                         <li class="skill">
@@ -172,12 +162,15 @@
                         </li>
                         <li class="skill">
                             SCSS - Novice
+                        </li> 
+                        <li class="skill">
+                            C# - Novice
                         </li>
                         <li class="skill">
                             Rust - Novice
                         </li>
-                        <li class="skill">
-                            C# - Novice
+                        <li class="skil">
+                            Python - Novice
                         </li>
                         <li class="skill">
                             C/C++ - Novice
