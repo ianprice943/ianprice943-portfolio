@@ -9,7 +9,7 @@
                     To see what side projects Ian is working on, check out his GitHub
                 </h2>
                 <a href="https://github.com/ianprice943" aria-label="Ian's GitHub">
-                    <img src="~@/assets/GitHub_Logo_White.png" alt="GitHub Logo">
+                    <img src="~@/assets/GitHub_Logo_White.png" alt="GitHub Logo" width="1000" height="410">
                 </a>
             </div>
             <div id="pmddx">
@@ -20,7 +20,7 @@
                     A small site developed to learn Vue.js and also React.js with TypeScript
                 </div>
                 <a href="https://pmdrtdx-react.herokuapp.com/" aria-label="A Pokemon Game Site">
-                    <img src="~@/assets/PMDRTDXLogo.png" alt="Pokemon Mystery Dungeon Rescue Team DX Logo">
+                    <img src="~@/assets/PMDRTDXLogo.png" alt="Pokemon Mystery Dungeon Rescue Team DX Logo" width="650" height="372">
                 </a>
                 <div id="vue-react-link-container">
                     <a href="https://pmdrtdx-vuejs.herokuapp.com/">Vue.js Version</a>
@@ -32,7 +32,7 @@
                     William Kampf Mediation
                 </h2>
                 <a href="https://wkmediation.com/" aria-label="A mediator's website">
-                    <img src="https://wkmediation.files.wordpress.com/2020/06/wk_mediation_logo_horiz_graygold.png" alt="WK Mediation Logo">
+                    <img src="https://wkmediation.files.wordpress.com/2020/06/wk_mediation_logo_horiz_graygold.png" alt="WK Mediation Logo" width="2401" height="416">
                 </a>
             </div>
         </div>
@@ -67,6 +67,7 @@ export default {
 }
 #portfolio-container > div> a > img {
     width: 100%;
+    height: auto;
 }
 #vue-react-link-container {
     display: flex;
