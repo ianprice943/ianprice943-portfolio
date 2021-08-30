@@ -156,7 +156,7 @@
                             NodeJS/NPM - Intermediate
                         </li>
                         <li class="skill">
-                            VueJS - Intermediate
+                            Vue.js - Intermediate
                         </li>
                         <li class="skill">
                             Git, Github, BitBucket - Intermediate
@@ -166,6 +166,9 @@
                         </li>
                         <li class="skill">
                             TypeScript - Novice
+                        </li>
+                        <li class="skill">
+                            React.js - Novice
                         </li>
                         <li class="skill">
                             SCSS - Novice
