@@ -183,7 +183,7 @@
                         <li class="skill">
                             Rust - Novice
                         </li>
-                        <li class="skil">
+                        <li class="skill">
                             Python - Novice
                         </li>
                         <li class="skill">
