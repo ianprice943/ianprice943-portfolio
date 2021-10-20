@@ -169,6 +169,9 @@
                             NodeJS/NPM - Intermediate
                         </li>
                         <li class="skill">
+                            C# - Intermediate
+                        </li>
+                        <li class="skill">
                             TypeScript - Novice
                         </li>
                         <li class="skill">
@@ -178,22 +181,13 @@
                             SCSS - Novice
                         </li> 
                         <li class="skill">
-                            C# - Novice
-                        </li>
-                        <li class="skill">
                             Rust - Novice
                         </li>
                         <li class="skil">
                             Python - Novice
                         </li>
                         <li class="skill">
-                            C/C++ - Novice
-                        </li>
-                        <li class="skill">
                             PHP - Novice
-                        </li>
-                        <li class="skill">
-                            Java - Novice
                         </li>
                         <li class="skill">
                             MySQL/MariaDB/MS SQL Server - Novice
