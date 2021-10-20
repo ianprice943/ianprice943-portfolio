@@ -11,21 +11,35 @@
                     </div>
                     <div class="experience">
                         <div class="experience-name">
+                            <a href="https://www.webpresented.com/">WebPresented</a>
+                        </div>
+                        <div class="experience-title">
+                            Systems Engineer
+                        </div>
+                        <div class="experience-time">
+                            September 2021 - Present
+                        </div>
+                        <div class="experience-description">
+                            As a Systems Engineer, Ian works on the Support team to develop custom solutions for WebPresented's customers. Ian uses C#, HTML, CSS, VueJS, and T-SQL to accomplish his tasks.
+                        </div>
+                    </div>
+                    <div class="experience">
+                        <div class="experience-name">
                             <a href="https://www.us.sogeti.com/">Sogeti USA</a>
                         </div>
                         <div class="experience-title">
                             Consultant
                         </div>
                         <div class="experience-time">
-                            June 2019 - Present
+                            June 2019 - September 2021
                         </div>
                         <div class="experience-description">
-                            <span>As a consultant at Sogeti, Ian has had the pleasure of working for several
+                            <span>As a consultant at Sogeti, Ian had the pleasure of working for several
                                 brands on their front end:</span>
                             <ul>
                                 <li>
                                     <a href="https://www.maurices.com">maurices</a>:
-                                    This is his current client. Ian is both an A/B tester and a front-end developer for maurices, using a stack including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS. Ian conducts customer facing tests on the maruices website, and uses the data collected from those tests to fuel future experiences and optimizations. He also follows guidelines for WCAG 2 and ADA compliance to ensure as many people as possible can experience the content he works on. To stay organized, Ian uses Atlassian JIRA to to receive and prioritize tasks as well as to communicate with stakeholders, and Atlassian Confluence to document his code and processes.
+                                    Ian was both an A/B tester and a front-end developer for maurices, using a stack including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS. Ian conducted customer facing tests on the maruices website, and used the data collected from those tests to fuel future experiences and optimizations. He also followed guidelines for WCAG 2 and ADA compliance to ensure as many people as possible can experience the content he worked on. To stay organized, Ian used Atlassian JIRA to receive and prioritize tasks as well as to communicate with stakeholders, and Atlassian Confluence to document his code and processes.
                                 </li>
                                 <li>
                                     <a href="https://abbottnutrition.com/">Abbott Nutrition</a>:

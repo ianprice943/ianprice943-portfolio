@@ -11,6 +11,7 @@
                 <div>
                     <p>Ian is a 24 year old web developer based in Columbus, Ohio. He holds a Bachelor of Science in Computer Science from Miami University, and graduated in 2019.</p>
                     <p>Ian's focus is on front-end web development, with over two years of E-Commerce experience. He takes designs and brings them to life on the web while ensuring responsiveness, cross browser compatibility, and WCAG2+ADA compliance.</p>
+                    <p>Recently Ian has jumped into full-stack ASP.NET development at the Columbus based CRM company WebPresented.</p>
                 </div>
             </div> 
         </div>
