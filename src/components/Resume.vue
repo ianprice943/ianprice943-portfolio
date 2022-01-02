@@ -39,7 +39,7 @@
                             <ul>
                                 <li>
                                     <a href="https://www.maurices.com">maurices</a>:
-                                    Ian was both an A/B tester and a front-end developer for maurices, using a stack including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS. Ian conducted customer facing tests on the maruices website, and used the data collected from those tests to fuel future experiences and optimizations. He also followed guidelines for WCAG 2 and ADA compliance to ensure as many people as possible can experience the content he worked on. To stay organized, Ian used Atlassian JIRA to receive and prioritize tasks as well as to communicate with stakeholders, and Atlassian Confluence to document his code and processes.
+                                    Ian was both an A/B tester and a front-end developer for maurices, using a stack including JavaScript(ES5/6), TypeScript, HTML5, CSS3, and SCSS. Ian conducted customer facing tests on the maurices website, and used the data collected from those tests to fuel future experiences and optimizations. He also followed guidelines for WCAG 2 and ADA compliance to ensure as many people as possible can experience the content he worked on. To stay organized, Ian used Atlassian JIRA to receive and prioritize tasks as well as to communicate with stakeholders, and Atlassian Confluence to document his code and processes.
                                 </li>
                                 <li>
                                     <a href="https://abbottnutrition.com/">Abbott Nutrition</a>:
